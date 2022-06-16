@@ -18,6 +18,7 @@ It's features include:
   <li>Dashboard Summary</li>
   <li>Create/Delete/Edit Products</li>
   <li>Create/Delete/Edit Homepage Banner and Text</li>
+  <li>Image Upload with AWS S-3</li>
   <li>View/Delete Orders</li>
   <li>Confirm Product Shipment</li>
   <li>View/Delete Users</li>
