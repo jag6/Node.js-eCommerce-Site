@@ -22,14 +22,12 @@ userRouter.get('/createadmin',
     })
 );
 
-//MINE
 userRouter.get('/', isAuth, isAdmin, expressAsyncHandler(async (req, res) => {
     const users = await User.find({});
     res.send(users);
     })
 );
 
-//MINE
 userRouter.get('/:id', expressAsyncHandler(async (req, res) => {
     const user = await User.findById(req.params.id);
     res.send(user);
@@ -105,7 +103,6 @@ userRouter.put('/:id', isAuth,
     })
 );
 
-//MINE
 userRouter.delete('/:id', isAuth, isAdmin, expressAsyncHandler(async (req, res) => {
     const user = await User.findById(req.params.id);
     if(user) {
