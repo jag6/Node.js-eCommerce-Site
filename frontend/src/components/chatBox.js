@@ -20,10 +20,10 @@ const Chatbox = {
                 <a href=""><i class="fab fa-discord"></i></a>
             </div>
             <div class="contact-icons">
-            <a href=""><i class="fab fa-instagram"></i></a>
-            <a href=""><i class="fab fa-facebook"></i></a>
-            <a href=""><i class="fab fa-twitter"></i></a>
-        </div>
+                <a href=""><i class="fab fa-instagram"></i></a>
+                <a href=""><i class="fab fa-facebook"></i></a>
+                <a href=""><i class="fab fa-twitter"></i></a>
+            </div>
             <button type="button" class="chat-cancel" id="closeBtn">CLOSE</button>
             
         </div>
