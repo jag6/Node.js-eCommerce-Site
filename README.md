@@ -24,6 +24,7 @@ It's features include:
   <li>View/Delete Users</li>
   <li>Admin Contact Box</li>
   <li>XSS Prevention</li>
+  <li>CSRF Prevention</li>
 </ul>
 
 This eCommerce site can be found at the following address: https://mattistore.herokuapp.com/
