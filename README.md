@@ -1,4 +1,4 @@
-# i-Store/Node.js eCommerce Site
+# i-Store
 
 This is a template for a simple fully functioning eCommerce web application. It uses Vanilla JS, MongoDB with Mongoose, and Node.js with Express and Axios. 
 It's features include:
